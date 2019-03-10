@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1552004432,
+	"version": 1552205278,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -7,10 +7,8 @@
 		"offlineClient.js",
 		"images/player-sheet0.png",
 		"images/ride1-sheet0.png",
-		"images/9patch.png",
 		"images/road.png",
 		"images/grass.png",
-		"images/grass1-sheet0.png",
 		"images/wall-sheet0.png",
 		"images/blueseparator-sheet0.png",
 		"images/checkmark1-sheet0.png",
@@ -26,6 +24,7 @@
 		"images/ride5-sheet0.png",
 		"images/ride5-sheet1.png",
 		"images/castle-sheet0.png",
+		"images/castle-sheet1.png",
 		"images/ride6-sheet0.png",
 		"images/ride6-sheet1.png",
 		"images/ride7-sheet0.png",
@@ -40,14 +39,21 @@
 		"images/ride13-sheet0.png",
 		"images/notebookbackground-sheet0.png",
 		"images/tooltipcloud-sheet0.png",
+		"images/tree1-sheet0.png",
+		"images/bush1-sheet0.png",
+		"images/tree2-sheet0.png",
+		"images/bush2-sheet0.png",
+		"images/bush3-sheet0.png",
+		"images/tree3-sheet0.png",
+		"images/completedmark-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
 		"icon-128.png",
 		"icon-256.png",
 		"loading-logo.png",
-		"multiplicationseasy.txt",
 		"fractionsnormal.txt",
+		"multiplicationseasy.txt",
 		"pathfind.js"
 	]
 }
