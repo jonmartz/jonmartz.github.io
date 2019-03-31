@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1552663872,
+	"version": 1554027731,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -50,6 +50,16 @@
 		"images/completedmark-sheet0.png",
 		"images/blueframe1-sheet0.png",
 		"images/footstepparticles.png",
+		"images/fireworkpurple.png",
+		"images/fireworkblue.png",
+		"images/fireworkgreen.png",
+		"images/fireworkred.png",
+		"images/door-sheet0.png",
+		"images/door-sheet1.png",
+		"images/flag-sheet0.png",
+		"images/spritefont.png",
+		"images/difficultychillis-sheet0.png",
+		"images/connectingline-sheet0.png",
 		"media/footstep1.m4a",
 		"media/footstep1.ogg",
 		"media/footstep2.m4a",
@@ -66,6 +76,10 @@
 		"media/successjingle.ogg",
 		"media/yay.m4a",
 		"media/yay.ogg",
+		"media/firework1.m4a",
+		"media/firework1.ogg",
+		"media/firework2.m4a",
+		"media/firework2.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
@@ -73,7 +87,8 @@
 		"icon-256.png",
 		"loading-logo.png",
 		"fractionsnormal.txt",
-		"multiplicationseasy.txt",
+		"multiplicationeasy.txt",
+		"כפלeasy.txt",
 		"pathfind.js"
 	]
 }
