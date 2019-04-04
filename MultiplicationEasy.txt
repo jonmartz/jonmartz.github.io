@@ -1,0 +1,5 @@
+How much is 1x2?;2;
+|1 x 5 = ?;2;3;4;5;5;
+|The following shape is a parallelogram.
+Choose the correct answer:;a=6, b=12;a=12, b=6;a=6, b=6;a=12, b=12;a=12, b=6;parallelogram1.png
+|1 x 3 = ?;2;3;3;
