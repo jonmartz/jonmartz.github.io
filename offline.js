@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1554376221,
+	"version": 1554716884,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -64,6 +64,8 @@
 		"images/difficultychillis-sheet0.png",
 		"images/connectingline-sheet0.png",
 		"images/questionimage-sheet0.png",
+		"images/badge-sheet0.png",
+		"images/bulletdot-sheet0.png",
 		"media/footstep1.m4a",
 		"media/footstep1.ogg",
 		"media/footstep2.m4a",
@@ -94,6 +96,7 @@
 		"multiplicationeasy.txt",
 		"כפלeasy.txt",
 		"parallelogram1.png",
+		"parallelogram2.png",
 		"pathfind.js"
 	]
 }
