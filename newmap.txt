@@ -1,4 +1,4 @@
-start parallelogram 2 1
+start parallelogram 0 1
 start triangleh 2 1
 parallelogram rectangle 9 3
 parallelogram parallelogramh 2 1
