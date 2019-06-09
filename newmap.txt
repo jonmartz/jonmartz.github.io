@@ -1,9 +1,9 @@
-start parallelogram 0 1
-start triangleh 2 1
-parallelogram rectangle 9 3
-parallelogram parallelogramh 2 1
-triangleh trianglea 2 1
-rectangle rhombus 2 1
-parallelogramh parallelograma 2 1
-trianglea parallelogramh 2 1
-rhombus square 2 1
+start parallelogram 3
+start triangleh 4
+parallelogram rectangle 2
+parallelogram parallelogramh 2
+triangleh trianglea 2
+rectangle rhombus 2
+parallelogramh parallelograma 2
+trianglea parallelogramh 2
+rhombus square 2

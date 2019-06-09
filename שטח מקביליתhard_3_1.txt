@@ -1,0 +1,4 @@
+﻿?האם יש שגיאה בנתוני הסרטוט;כן;לא;כן;parallelogramAreaq1.png
+|הוא _____ ס"מ X שטח המקבילית שלפניכם הוא 35 סמ"ר, אורך צלע;5;parallelogramAreaq11.png
+|﻿?האם יש שגיאה בנתוני הסרטוט;כן;לא;כן;parallelogramAreaq1.png
+|הוא _____ ס"מ X שטח המקבילית שלפניכם הוא 35 סמ"ר, אורך צלע;5;parallelogramAreaq11.png
