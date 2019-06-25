@@ -1,11 +1,11 @@
-חשב את שטח הצורה;8;perimeter22.png
-|חשב את שטח הצורה;11;perimeter19.png
-|חשב את שטח הצורה;14;area25.png
+חשב את שטח הצורה;7;area28.png|חשב את שטח הצורה;6;area26.png
 |חשב את שטח הצורה;20;perimeter21.png
-|﻿|חשב את שטח הצורה;11;perimeter20.png
-|חשב את שטח הצורה;7;area28.png|חשב את שטח הצורה;30;perimeter24.png
-|חשב את שטח הצורה;6;area26.png
-|חשב את שטח הצורה;10;perimeter23.png
-|חשב את שטח הצורה;8;perimeter18.png
+|﻿|חשב את שטח הצורה;6;perimeter17.png
 |חשב את שטח הצורה;4;area27.png
-|חשב את שטח הצורה;6;perimeter17.png
+|חשב את שטח הצורה;11;perimeter19.png
+|חשב את שטח הצורה;8;perimeter18.png
+|חשב את שטח הצורה;8;perimeter22.png
+|חשב את שטח הצורה;14;area25.png
+|חשב את שטח הצורה;11;perimeter20.png
+|חשב את שטח הצורה;30;perimeter24.png
+|חשב את שטח הצורה;10;perimeter23.png
