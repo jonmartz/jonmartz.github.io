@@ -1,4 +1,0 @@
-חשב את שטח הצורה;6;area16.png
-|חשב את שטח הצורה;14;perimeter6.png
-|חשב את שטח הצורה;7;perimeter7.png
-|חשב את שטח הצורה;10;perimeter2.png
