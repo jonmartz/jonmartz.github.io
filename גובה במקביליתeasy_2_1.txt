@@ -1,3 +1,0 @@
-?האם הקטע המסומן הוא גובה במקבילית;כן;לא;לא;parallelogramHeightq3.png
-|?האם הקטע המסומן הוא גובה במקבילית;כן;לא;כן;parallelogramHeightq5.png
-|?האם הקטע המסומן הוא גובה במקבילית;כן;לא;לא;parallelogramHeightq6.png
