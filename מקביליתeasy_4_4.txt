@@ -1,0 +1,6 @@
+?במקבילית הבאה a מה גודל זווית;120;parallelogramq13.png
+|?במקבילית הבאה a מה גודל זווית;130;parallelogramq6.png
+|?האם המצולע הבא הוא מקבילית;כן;לא;לא;parallelogramq3.png
+|?האם המצולע הבא הוא מקבילית;כן;לא;כן;parallelogramq9.png
+|?האם המצולע הבא הוא מקבילית;כן;לא;כן;parallelogramq10.png
+|?האם המצולע הבא הוא מקבילית;כן;לא;כן;parallelogramq5.png

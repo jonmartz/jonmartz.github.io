@@ -1,0 +1,6 @@
+חשב את היקף הצורה;24;perimeter16.png
+|חשב את היקף הצורה;14;perimeter9.png
+|חשב את היקף הצורה;12;perimeter15.png
+|חשב את היקף הצורה;18;perimeter2.png
+|חשב את היקף הצורה;24;perimeter8.png
+|חשב את היקף הצורה;12;perimeter7.png
